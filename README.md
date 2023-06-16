@@ -1,6 +1,9 @@
 # P5_template
 this repository is a template to start running P5.js scripts locally
 
+
+## Getting started with running a script locally
+
 To begin running P5.js scripts locally:
 - fork this repository
 - clone it to a local folder with the name of your project
